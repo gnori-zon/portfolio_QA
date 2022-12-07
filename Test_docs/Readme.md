@@ -1,4 +1,4 @@
-<h1 align="center">Тестовая документация <a href='https://emojitool.ru/ninja'>🥷</a></h1>
+<h1 align="center">Тестовая документация &#128373;</h1>
 <h3 align="left">Здесь располагаются примеры:</h3>
 <ul>
   <li>составления <a href="https://docs.google.com/document/d/1R9TYlg2qsTBlKTgh3v7YqWN0E6N2EvIScC6R3uRSTJs/edit?usp=sharing">SQL-запросов</a>;</li>
